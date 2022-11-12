@@ -2,7 +2,7 @@
 
 Hello there :wave: !
 
-I'm the founder of RUMQ Journey which is a program designed to train freshers and career changers into Super Efficient Remote Workers (International) :rocket: :rocket: :rocket:.
+I'm the founder of RUMQ Journey which is a program designed to train freshers and career changers into Super Efficient Remote Workers (International) :rocket: :rocket: :rocket:. It is still free!
 
 For more details see the [RUMQ Journey](http://www.rumqjourney.com) website or read the [RUMQ Journey in a nutshell document](https://docs.google.com/document/d/e/2PACX-1vSRyJw9eiX8vEieUTHON9gwgBSiVcqSwTUO0243pSjGGK263SbiFl8_KGH5Vx2wqe6az6wX4irGQxvA/pub).
 
@@ -17,7 +17,7 @@ For more details see the [RUMQ Journey](http://www.rumqjourney.com) website or r
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/vikrampawar/vikrampawar/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/vikrampawar/ama&leaving=house)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/vikrampawar/vikrampawar/README.md?pixel)](https://GitHub.com/vikrampawar/vikrampawar/)[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/vikrampawar/&going=house)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/vikrampawar/&going=house)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg?min=13)](https://GitHub.com/)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg?hack=yes)](https://github.com/vikrampawar/badges)
