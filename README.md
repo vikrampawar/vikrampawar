@@ -2,7 +2,7 @@
 
 Hello there :wave: !
 
-I'm the founder of RUMQ Journey which is a program designed to train for freshers and career changers into Super Efficient Remote Workers (International) :rocket: :rocket: :rocket:.
+I'm the founder of RUMQ Journey which is a program designed to train freshers and career changers into Super Efficient Remote Workers (International) :rocket: :rocket: :rocket:.
 
 For more details see the [RUMQ Journey](http://www.rumqjourney.com) website or read the [RUMQ Journey in a nutshell document](https://docs.google.com/document/d/e/2PACX-1vSRyJw9eiX8vEieUTHON9gwgBSiVcqSwTUO0243pSjGGK263SbiFl8_KGH5Vx2wqe6az6wX4irGQxvA/pub).
 
