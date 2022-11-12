@@ -13,7 +13,7 @@ For more details see the [RUMQ Journey](http://www.rumqjourney.com) website or r
 
 #### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/vikrampawar/vikrampawar.svg?going-to=PhD-Md)](https://github.com/vikrampawar/vikrampawar/blob/master/LICENSE)
 [MIT Licensed](https://vikrampawar.mit-license.org/) (file [LICENSE](LICENSE)).
-© [Vikram Pawar](https://GitHub.com/vikrampawar), 2015-22.
+© [Vikram Pawar](https://GitHub.com/vikrampawar), 2011-22.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/vikrampawar/vikrampawar/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/vikrampawar/ama&leaving=house)
