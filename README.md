@@ -1,4 +1,4 @@
-## [Vikram Pawar](https://www.linkedin.com/in/vikrammpawar/) [(@vikrampawar) on GitHub](https://github.com/vikrampawar)
+## 
 
 Hello there :wave: !
 
