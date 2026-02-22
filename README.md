@@ -15,7 +15,7 @@ I organise **Claude Code Central London** — in-person meetups for developers b
 - [CCCL #1](https://luma.com/claude.code.central.london.1) — Dec 2025, inaugural meetup
 - [CCCL #2](https://luma.com/eorbmc28) — Jan 2026
 - [CCCL #3](https://luma.com/claude.code.central.london.3) — Feb 2026, 11 speakers at Vonage Shoreditch
-- [Event calendar](https://luma.com/claude.code.central.london) | [Meetup group](https://www.meetup.com/claude-code-central-london-meetup-group) | [LinkedIn](https://www.linkedin.com/in/vikrammpawar/)
+- [Event calendar](https://luma.com/claude.code.central.london) | [Meetup group](https://www.meetup.com/claude-code-central-london-meetup-group) | [rumq.net](https://rumq.net)
 
 ### Past highlights
 
@@ -24,3 +24,7 @@ I organise **Claude Code Central London** — in-person meetups for developers b
 ### Tech
 
 TypeScript, Python, Java — whatever the problem needs. Currently deep in MCP Apps, Claude Code, and AI-assisted development workflows.
+
+### Links
+
+[Blog](https://vikrampawar.github.io) | [LinkedIn](https://www.linkedin.com/in/vikrammpawar/) | [rumq.net](https://rumq.net)
